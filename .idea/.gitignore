@@ -11,8 +11,10 @@ target/
 bin/
 !.mvn/wrapper/maven-wrapper.jar
 ### IntelliJ IDEA ###
-.idea
+*.idea
 *.iws
 *.iml
 *.ipr
 *.class
+out/
+out\
