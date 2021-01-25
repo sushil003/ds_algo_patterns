@@ -18,3 +18,4 @@ bin/
 *.class
 out/
 out\
+out
