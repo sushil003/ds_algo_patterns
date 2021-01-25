@@ -1,0 +1,22 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../:\Sushil\git\ds_algo_patterns\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+.idea/
+target/
+bin/
+!.mvn/wrapper/maven-wrapper.jar
+### IntelliJ IDEA ###
+*.idea
+*.iws
+*.iml
+*.ipr
+*.class
+out/
+out\
+out
+/out/
