@@ -1,7 +1,11 @@
 package com.patterns.slindingwindow;
 
 import java.util.Arrays;
-
+/**
+ * Given an array, find the average of all contiguous subarrays of size ‘K’ in it.
+ * Time complexity : O(n)
+ * Space complexity : O(K)
+ */
 public class AverageOfSubarrayOfSizeK {
 
     public static void main(String[] args) {
